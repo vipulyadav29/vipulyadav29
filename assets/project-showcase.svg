@@ -1,0 +1,41 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="a" x1="105" y1="42" x2="1090" y2="286" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="330" rx="26" fill="#020617"/>
+  <path d="M42 52H1158M42 278H1158" stroke="#1E293B" stroke-width="1"/>
+  <text x="600" y="47" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="800">Selected Builds</text>
+
+  <rect x="82" y="86" width="496" height="178" rx="22" fill="url(#card)" stroke="#1E293B"/>
+  <rect x="622" y="86" width="496" height="178" rx="22" fill="url(#card)" stroke="#1E293B"/>
+  <path d="M108 234C168 183 213 239 280 179C354 111 399 190 464 139C507 105 535 113 554 101" stroke="#38BDF8" stroke-width="3" opacity="0.72"/>
+  <path d="M650 230C709 160 765 244 820 178C880 107 946 190 1003 130C1038 92 1076 105 1093 92" stroke="#22C55E" stroke-width="3" opacity="0.72"/>
+  <path d="M108 234C168 183 213 239 280 179C354 111 399 190 464 139C507 105 535 113 554 101" stroke="#38BDF8" stroke-width="13" opacity="0.12" filter="url(#glow)"/>
+  <path d="M650 230C709 160 765 244 820 178C880 107 946 190 1003 130C1038 92 1076 105 1093 92" stroke="#22C55E" stroke-width="13" opacity="0.12" filter="url(#glow)"/>
+
+  <text x="118" y="132" fill="#38BDF8" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">AirBooker</text>
+  <text x="118" y="167" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Booking workflow with practical product flow</text>
+  <text x="118" y="201" fill="#94A3B8" font-family="Consolas, 'Courier New', monospace" font-size="16">full-stack web app · UI logic · data flow</text>
+
+  <text x="658" y="132" fill="#22C55E" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">Wheatstone</text>
+  <text x="658" y="167" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Logic-driven build with problem-solving focus</text>
+  <text x="658" y="201" fill="#94A3B8" font-family="Consolas, 'Courier New', monospace" font-size="16">web development · clean structure · fundamentals</text>
+
+  <rect x="118" y="218" width="110" height="28" rx="14" fill="#082F49" stroke="#075985"/>
+  <text x="173" y="237" text-anchor="middle" fill="#BAE6FD" font-family="Consolas, 'Courier New', monospace" font-size="13">repo</text>
+  <rect x="658" y="218" width="110" height="28" rx="14" fill="#052E16" stroke="#166534"/>
+  <text x="713" y="237" text-anchor="middle" fill="#BBF7D0" font-family="Consolas, 'Courier New', monospace" font-size="13">repo</text>
+
+  <path d="M104 286H1096" stroke="url(#a)" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/dark-header.svg" alt="Vipul Yadav - Software Engineer" width="100%" />
+  <img src="./assets/terminal-hero.svg" alt="Vipul Yadav - Software Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -22,10 +22,13 @@
   <img src="./assets/neon-divider.svg" alt="" width="100%" />
 </p>
 
-## About me
+## System profile
 
 ```txt
-I build software with clarity, usable interfaces, and maintainable systems in mind.
+role        Software Engineer
+focus       Full-stack web development, APIs, product workflows
+principles  Clear code, useful UX, maintainable systems
+status      Building, learning, and improving in public
 ```
 
 I am a software engineer who enjoys turning ideas into practical products. I like working across the stack: shaping the user experience, designing clean APIs, connecting data, and keeping the codebase understandable as the project grows.
@@ -39,7 +42,7 @@ I am a software engineer who enjoys turning ideas into practical products. I lik
   <img src="./assets/neon-divider.svg" alt="" width="100%" />
 </p>
 
-## Tech stack
+## Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark&perline=6" alt="Tech stack icons" />
@@ -58,30 +61,22 @@ I am a software engineer who enjoys turning ideas into practical products. I lik
 
 ## Engineering style
 
-<table>
-  <tr>
-    <td><b>Simple first</b></td>
-    <td>Build the smallest clean solution that actually solves the problem.</td>
-  </tr>
-  <tr>
-    <td><b>User aware</b></td>
-    <td>Good software should feel clear, fast, and useful to the person using it.</td>
-  </tr>
-  <tr>
-    <td><b>Maintainable</b></td>
-    <td>Code should be readable enough that future changes feel natural.</td>
-  </tr>
-  <tr>
-    <td><b>Always improving</b></td>
-    <td>Every project is a chance to sharpen fundamentals and build better habits.</td>
-  </tr>
-</table>
+```txt
+simple first      Build the smallest clean solution that solves the real problem.
+user aware        Make software feel clear, fast, and useful.
+maintainable      Keep structure readable so future changes feel natural.
+always improving  Use every project to sharpen fundamentals and taste.
+```
 
 <p align="center">
   <img src="./assets/neon-divider.svg" alt="" width="100%" />
 </p>
 
 ## Featured work
+
+<p align="center">
+  <img src="./assets/project-showcase.svg" alt="AirBooker and Wheatstone project showcase" width="100%" />
+</p>
 
 <table>
   <tr>
