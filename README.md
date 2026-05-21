@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vipul Yadav</h1>
-<h3 align="center">Software Engineer building clean, scalable, and user-focused digital products.</h3>
+<h3 align="center">Software Developer building clean, scalable, and user-focused digital products.</h3>
 
 <p align="center">
   <a href="https://github.com/vipulyadav29">
