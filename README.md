@@ -75,7 +75,7 @@ I am a software engineer who enjoys turning ideas into practical products. I lik
 
 ## Featured work
 
-> Replace these with your strongest public repositories as you publish them.
+
 
 <table>
   <tr>
