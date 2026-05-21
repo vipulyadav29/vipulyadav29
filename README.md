@@ -75,8 +75,6 @@ I am a software engineer who enjoys turning ideas into practical products. I lik
 
 ## Featured work
 
-
-
 <table>
   <tr>
     <th>Project</th>
@@ -84,19 +82,19 @@ I am a software engineer who enjoys turning ideas into practical products. I lik
     <th>Stack</th>
   </tr>
   <tr>
-    <td><b>Portfolio Website</b></td>
-    <td>Personal brand, responsive layout, polished frontend</td>
-    <td>React, CSS</td>
+    <td><a href="https://github.com/vipulyadav29/AirBooker"><b>AirBooker</b></a></td>
+    <td>Booking workflow, user-focused interface, and practical product flow</td>
+    <td>Full-stack web app</td>
   </tr>
   <tr>
-    <td><b>Task Manager App</b></td>
-    <td>CRUD flows, state management, clean UI logic</td>
-    <td>JavaScript, Node.js</td>
+    <td><a href="https://github.com/vipulyadav29/Wheatstone"><b>Wheatstone</b></a></td>
+    <td>Logic-driven implementation with clean structure and problem-solving focus</td>
+    <td>Web development</td>
   </tr>
   <tr>
-    <td><b>API Project</b></td>
-    <td>REST design, validation, database integration</td>
-    <td>Express, MongoDB</td>
+    <td><b>More projects soon</b></td>
+    <td>Continuing to build, polish, and publish stronger engineering work</td>
+    <td>Learning in public</td>
   </tr>
 </table>
 
