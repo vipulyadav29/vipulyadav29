@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1100&color=38BDF8&center=true&vCenter=true&width=850&lines=Dark-mode+builder+with+a+clean-code+mindset;Full-stack+developer+focused+on+real+product+flows;Turning+ideas+into+reliable+and+polished+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1100&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+builder+with+a+clean-code+mindset;Full-stack+developer+focused+on+real+product+flows;Turning+ideas+into+reliable+and+polished+software" alt="Typing SVG" />
 </p>
 
 <p align="center">
